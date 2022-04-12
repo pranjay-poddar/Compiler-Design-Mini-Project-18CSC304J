@@ -1,4 +1,4 @@
-Compiler Designm Project
+Compiler Design Mini-Project
 ===============================
 
 # Lexical Analyser for a subset of the C langauge
